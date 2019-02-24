@@ -1,0 +1,9 @@
+[X-GNOME-Metatheme]
+Name=Adwaita-solarized-dark
+-darkType=X-GNOME-Metatheme
+Comment=There were only two?
+Encoding=UTF-8
+GtkTheme=Adwaita
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
